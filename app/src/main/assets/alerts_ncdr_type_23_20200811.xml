@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns:cap="urn:oasis:names:tc:emergency:cap:1.1" xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alerts.ncdr.nat.gov.tw/RSS.aspx</id>
+    <title>NCDR_CAP-即時防災資訊</title>
+    <updated>2020-08-11T05:04:00+08:00</updated>
+    <author>
+        <name>NCDR</name>
+    </author>
+    <link href="https://alerts.ncdr.nat.gov.tw/RssAtomFeed.ashx?AlertType=33" rel="self" />
+    <entry>
+        <id>dgpa.gov.tw_workSchlClos_20200811001906_i_10016_001</id>
+        <title>停班停課</title>
+        <updated>2020-08-11T00:19:06+08:00</updated>
+        <author>
+            <name>行政院人事行政總處</name>
+        </author>
+        <link href="https://b-alertsline.cdn.hinet.net/Capstorage/DGPA/2020/workschoolclose_cap/dgpa.gov.tw_workSchlClos_20200811001906_i_10016_001.cap"
+            rel="alternate" />
+        <summary type="html">[停班停課通知]澎湖縣:8/11上午停止上班、停止上課。行政院人事行政總處。如有任何問題請撥1999(縣內直撥)。</summary>
+        <category term="停班停課" />
+    </entry>
+    <entry>
+        <id>dgpa.gov.tw_workSchlClos_20200811002107_i_09020_002</id>
+        <title>停班停課</title>
+        <updated>2020-08-11T00:21:07+08:00</updated>
+        <author>
+            <name>行政院人事行政總處</name>
+        </author>
+        <link href="https://b-alertsline.cdn.hinet.net/Capstorage/DGPA/2020/workschoolclose_cap/dgpa.gov.tw_workSchlClos_20200811002107_i_09020_002.cap"
+            rel="alternate" />
+        <summary type="html">[停班停課通知]金門縣:8/11停止上班、停止上課。行政院人事行政總處。如有任何問題請撥082-318823#65130。</summary>
+        <category term="停班停課" />
+    </entry>
+</feed>
